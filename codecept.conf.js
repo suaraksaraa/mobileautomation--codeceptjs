@@ -4,7 +4,7 @@ exports.config = {
     Appium: {
       host: 'localhost',
       port: 4723,
-      app: '/Users/kata/Desktop/automation/mobileautomation--codeceptjs/Flutter Gallery_2.8.1_apk-dl.com.apk',
+      app: 'http://dl.apk-cloud.com/dl5/apk/2020/12/20/io.flutter.demo.gallery_20801.apk?f=Flutter%20Gallery_2.8.1_apk-dl.com.apk&id=io.flutter.demo.gallery&dl=2',
       platform: 'Android',
       desiredCapabilities: {
         platformName: 'Android',
